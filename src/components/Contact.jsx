@@ -8,12 +8,6 @@ gsap.registerPlugin(ScrollTrigger)
 
 const contactInfo = [
   {
-    icon: <HiOutlineMail size={22} />,
-    label: 'Email',
-    value: 'tracenobles58@gmail.com',
-    href: 'mailto:tracenobles58@gmail.com',
-  },
-  {
     icon: <FaGithub size={22} />,
     label: 'GitHub',
     value: 'Trace58Mobile',
